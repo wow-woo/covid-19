@@ -21,4 +21,4 @@ make it possible to choose country to view
 
 count up number effect
 
-interchange 2 different charts
+interchange 2 different chart types
