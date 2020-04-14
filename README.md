@@ -10,6 +10,8 @@ chart.js
 
 react-chartjs-2
 
+module css
+
 ✔
 target
 
